@@ -1,0 +1,16 @@
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator_2._0.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator 2.0.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator 2.0.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator 2.0.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator 2.0.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\bin\Debug\net7.0-windows\kalkulator 2.0.exe
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\bin\Debug\net7.0-windows\kalkulator 2.0.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\bin\Debug\net7.0-windows\kalkulator 2.0.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\bin\Debug\net7.0-windows\kalkulator 2.0.dll
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\bin\Debug\net7.0-windows\kalkulator 2.0.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator 2.0.dll
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\refint\kalkulator 2.0.dll
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator 2.0.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\kalkulator 2.0.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\kalkulator 2.0\kalkulator 2.0\obj\Debug\net7.0-windows\ref\kalkulator 2.0.dll
